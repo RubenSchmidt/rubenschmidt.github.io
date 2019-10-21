@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruben Schmidt</title>
-    <link>https://rubenschmidt.github.io/</link>
-    <description>Recent content on Ruben Schmidt</description>
+    <title>blog on Ruben Schmidt</title>
+    <link>https://rubenschmidt.github.io/categories/blog/</link>
+    <description>Recent content in blog on Ruben Schmidt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Sep 2019 23:22:57 +0200</lastBuildDate>
     
-	<atom:link href="https://rubenschmidt.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rubenschmidt.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://rubenschmidt.github.io/2019/09/first-post/</guid>
       <description>I have decided to start writing. Why do you ask? Well, the main reason is that I want to summarize, structurize and share my learnings.
 During my studies, I wrote tons of summaries. Everything I needed to remember I wrote down. I have found that I learn a lot better when I write things down and try to summarize what I just read, in a way that I can understand when coming back to it later.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://rubenschmidt.github.io/about/</link>
-      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rubenschmidt.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Ruben. I am interested in building products, software, and management.
-I currently work as a team lead and software engineer at Spacemaker where we try to find better ways to design our cities.
-Previously I have co-founded two companies: A traditional startup, Jobbr, a platform where you could undertake and post smaller jobs, and Korde, a consulting company that helped startups and established companies with business and software development.</description>
     </item>
     
   </channel>
